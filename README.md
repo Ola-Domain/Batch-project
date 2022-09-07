@@ -1,4 +1,4 @@
-guifont=<Arial blue>:h<18>#Batch project
+#Batch project
 
 #All project project are safe, cool non-destructive contains 0% virus
 #Virus free
@@ -10,5 +10,5 @@ guifont=<Arial blue>:h<18>#Batch project
 
 
 
-guifont=<Arial blue>:h<18>
+>Happy coding....................................!
 
